@@ -1,19 +1,19 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "shorttitlelowercase-2",
+  "id": "tltk-3",
   "level": "1",
-  "url": "shorttitlelowercase-2.html",
-  "type": "Front Matter",
+  "url": "tltk-3.html",
+  "type": "Mặt Trước",
   "number": "",
-  "title": "Front Matter",
-  "body": "  Author X. Lastname       This is the abstract.   "
+  "title": "Mặt Trước",
+  "body": "  Phạm Công Vinh vinhpcdev@gmail.com       Tất cả các tài liệu tham khảo của dự án Mainichi Kanji .   "
 },
 {
   "id": "section-1",
   "level": "1",
   "url": "section-1.html",
-  "type": "Section",
+  "type": "Mục",
   "number": "1",
   "title": "My First Section",
   "body": " My First Section   Some words    My First Subsection  Some more words  foo   A frog    A nice-looking frog with a longish description.     Bar:    "
@@ -31,7 +31,7 @@ var ptx_lunr_docs = [
   "id": "section-2",
   "level": "1",
   "url": "section-2.html",
-  "type": "Section",
+  "type": "Mục",
   "number": "2",
   "title": "My Additional Section",
   "body": " My Additional Section  foo  bar  "

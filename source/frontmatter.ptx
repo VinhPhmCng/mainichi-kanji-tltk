@@ -1,17 +1,18 @@
 <frontmatter>
-    <bibinfo>
-    <author>
-        <personname>Author X. Lastname</personname>
-    </author>
-    </bibinfo>
+  <bibinfo>
+  <author>
+    <personname>Phạm Công Vinh</personname>
+    <email>vinhpcdev@gmail.com</email>
+  </author>
+  </bibinfo>
 
-    <titlepage>
-        <titlepage-items></titlepage-items>
-    </titlepage>
+  <titlepage>
+    <titlepage-items></titlepage-items>
+  </titlepage>
 
-    <abstract>
-        <p>
-            This is the abstract.
-        </p>
-    </abstract>
+  <abstract>
+    <p>
+      Tất cả các tài liệu tham khảo của dự án <url href="#">Mainichi Kanji</url>.
+    </p>
+  </abstract>
 </frontmatter>

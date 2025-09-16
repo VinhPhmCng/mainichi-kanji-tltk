@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <docinfo>
-        <!--       What goes here? -->
-    </docinfo>
+  <docinfo>
+    <rename element="frontmatter">Mặt Trước</rename> <rename element='section'>Mục</rename> <rename element='subsection'>Tiểu Mục</rename> <rename element='introduction'>Giới Thiệu</rename> <rename element='conclusion'>Kết Luận</rename> <rename element='backmatter'>Mặt Sau</rename> <rename element='remark'>Bình Luận</rename> <rename element='note'>Note</rename> <rename element='insight'>Chia Sẻ</rename> <rename element='list'>Danh Sách</rename> <rename element='li'>Mục</rename> <rename element='toc'>Mục Lục</rename> <rename element='abstract'>Tóm Tắt</rename> <rename element='index-part'>Tra Cứu</rename> <rename element='jump-to'>Đi đến:</rename> <rename element='index'>Tra Cứu</rename> <rename element='page'>Trang</rename> <rename element='continued'>Tiếp tục ở trang sau</rename> <rename element='skip-to-content'>Đi đến nội dung chính</rename> <rename element='previous'>Trước</rename> <rename element='up'>Lên</rename> <rename element='next'>Tiếp</rename> <rename element='previous-short'>Trc</rename> <rename element='up-short'>Lên</rename> <rename element='next-short'>Tiếp</rename> <rename element='authored'>Được soạn với PreTeXt</rename> <rename element='copyright'>Bản Quyền</rename>
+  </docinfo>
 
-    <article xml:id="shorttitlelowercase">
-        <title>The title of my groundbreaking paper</title>
+  <article xml:id="tltk">
+    <title>Mainichi Kanji</title>
 
-        <xi:include href="./frontmatter.ptx" />
-        <xi:include href="./section-1.ptx" />
-        <xi:include href="./section-2.ptx" />
-    </article>
+    <subtitle>Tài liệu tham khảo</subtitle>
+    <xi:include href="./frontmatter.ptx" />
+    <xi:include href="./section-1.ptx" />
+    <xi:include href="./section-2.ptx" />
+  </article>
 </pretext>
